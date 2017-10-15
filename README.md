@@ -1,5 +1,3 @@
 # angular   README.md插入图片： https://my.oschina.net/kaqijiang/blog/658996
 angular学习项目
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
-![image text](https://github.com/lxlx704034204/angular/tree/master/raw/angularJS_Architecture_diagram.jpg)
- ![简单计算器](https://github.com/lxlx704034204/angular/tree/master/raw/angularJS_Architecture_diagram.jpg)
+![angularJS 架构图](https://github.com/lxlx704034204/angular/tree/master/raw/angularJS_Architecture_diagram.jpg)
