@@ -4,7 +4,7 @@
 
 var helloangular=angular.module('helloangular',[]);
 helloangular.controller('helloNgCtrl',['$scope',function($scope){
-    $scope.greeting={               //注入scope
+    $scope.greeting={                  //scope的依赖注入
         text:'hello'
     };
 }]);
